@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-purple)
+![Platform](https://img.shields.io/badge/Platform-macOS%20M1%2F M2-black)
 # 📊 Financial Knowledge Graph + AI Q&A System
 
 ระบบนี้เป็นโครงการ Data Engineering ที่ออกแบบมาเพื่อเก็บข้อมูลราคาหุ้นแบบ Real-Time ผ่าน Kafka  
