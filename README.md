@@ -122,6 +122,14 @@ http://127.0.0.1:8000/docs
 
 ## 🧪 Example API Usage
 Request:
+```json
 {
   "question": "What is the latest price of Tesla?"
 }
+```
+Response:
+```json
+{
+  "answer": "Tesla price: 233.52 USD. The stock is currently showing moderate upward momentum."
+}
+```
