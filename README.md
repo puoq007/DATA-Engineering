@@ -78,3 +78,15 @@
 ```bash
 git clone <your repo url>
 cd DE\ Project
+```
+## Create Virtual Environment
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+## Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
